@@ -1,6 +1,6 @@
 [runner_gitlab-runner]
 name=runner_gitlab-runner
-baseurl=http://repository.dimas-maryanto.com:8081/repository/rpm-group-centos/7/$basearch
+baseurl=http://192.168.88.50:8081/repository/centos-gitlab-runner/7/$basearch
 repo_gpgcheck=0
 gpgcheck=0
 enabled=1

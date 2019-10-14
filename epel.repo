@@ -1,6 +1,6 @@
 [epel]
 name=Extra Packages for Enterprise Linux 7 - $basearch
-baseurl=http://repository.dimas-maryanto.com:8081/repository/rpm-group-centos/7/$basearch
+baseurl=http://repository.dimas-maryanto.com:8081/repository/epel-centos/7/$basearch
 #metalink=https://mirrors.fedoraproject.org/metalink?repo=epel-7&arch=$basearch
 failovermethod=priority
 enabled=1

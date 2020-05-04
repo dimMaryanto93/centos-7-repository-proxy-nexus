@@ -1,6 +1,6 @@
 [PlexRepo]
 name=PlexRepo
-baseurl=https://downloads.plex.tv/repo/rpm/$basearch/
+baseurl=http://192.168.88.50:8081/repository/plex-media-repository/repo/rpm/$basearch/
 enabled=1
 gpgkey=https://downloads.plex.tv/plex-keys/PlexSign.key
-gpgcheck=1
+gpgcheck=0
